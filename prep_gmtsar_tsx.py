@@ -1,5 +1,7 @@
 import os, sys
-
+'''
+Usage : python prep_gmtsar_tsx.py master_dir slave_dir
+'''
 master = sys.argv[1]
 slave = sys.argv[2]
 
