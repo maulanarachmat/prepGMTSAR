@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jul 13 09:21:44 2020
 
 @author: rachmat maulana
 @email : maularachmat@gmail.com
